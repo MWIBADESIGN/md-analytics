@@ -1,0 +1,1 @@
+ALTER TABLE public.sessions ADD COLUMN ip_address text DEFAULT NULL;
